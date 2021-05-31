@@ -1,0 +1,9 @@
+git config --global user.name "github账号名字"
+
+
+
+git config --global user.email "github绑定的邮箱"
+
+
+
+git clone 复制你刚才的clone链接
